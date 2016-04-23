@@ -12,7 +12,7 @@ Please use the latest Version of Ninject.Web.WebApi, See:
 
 | Package                                | Version | Note |
 |----------------------------------------|---------|------|
-| Microsoft.AspNet.WebApi.Client         | 5.2.3   |      |
+| Microsoft.AspNet.WebApi.Client         | 5.2.3   | Client Libraries used in Tests to parse server responses     |
 | *Microsoft.AspNet.WebApi.Core*           | 5.2.3   |Required by Microsoft.AspNet.WebApi.Owin  |
 | **Microsoft.AspNet.WebApi.Owin**           | 5.2.3   | Summary Package |
 | *Microsoft.Owin*                         | 3.0.1   |Required by Microsoft.AspNet.WebApi.Owin      |
