@@ -64,7 +64,7 @@
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controllers\CompositeDependencyController.cs" />
     <Compile Include="Controllers\CompositeRootDependencyController.cs" />
-    <Compile Include="Controllers\InterfacedDependencyController - Copy.cs" />
+    <Compile Include="Controllers\InterfacedAndDirectDependencyController.cs" />
     <Compile Include="Controllers\InterfacedDependencyController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\CompositeMasterService.cs" />
