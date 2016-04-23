@@ -7,8 +7,7 @@ The project contains a configuration and various tests to cover the folllwing sp
 * Same instance used even if different interfaces are requested
 
 ## Versions
-Please use the latest Version of Ninject.Web.WebApi, See: 
-* http://stackoverflow.com/questions/28711963/ninject-activationexception-thrown-only-on-first-web-request-webapi-2-own-3-n
+Please use the latest Version of Ninject.Web.WebApi, See: http://stackoverflow.com/questions/28711963/ninject-activationexception-thrown-only-on-first-web-request-webapi-2-own-3-n
 
 | Package                                | Version | Note |
 |----------------------------------------|---------|------|
@@ -24,7 +23,7 @@ Please use the latest Version of Ninject.Web.WebApi, See:
 | *Ninject.Extensions.NamedScope*          | 3.2.0.0 | Nequired by Ninject.Web.WebApi.OwinHost     |
 | *Ninject.Web.Common*                    | 3.2.3.0 | Required by Ninject.Web.WebApi.OwinHost      |
 | *Ninject.Web.Common.OwinHost*            | 3.2.3.0 | Required by Ninject.Web.WebApi.OwinHost    |
-| *Ninject.Web.WebApi*                     | 3.2.1.0 | Required by Ninject.Web.WebApi.OwinHost     |
+| *Ninject.Web.WebApi*                     | 3.2.4.0 | Required by Ninject.Web.WebApi.OwinHost     |
 | **Ninject.Web.WebApi.OwinHost**            | 3.2.4.0 | Web API & OWIN Integration     |
 | *Owin*                                   | 1.0     | Required by Microsoft.Owin, Microsoft Owin.Hosting, ...     |
 
